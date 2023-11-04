@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reyhan Vincent Prabowo</h1>
 - 🌱 I’m currently learning **AWS & CC Course**
 
-- 📝 I regularly write articles on [reyhanvincent.my.id](reyhanvincent.my.id)
+- 📝 I regularly write articles on [reyhanvincent.my.id](https://reyhanvincent.my.id)
 
 - 📫 How to reach me **reyhanvincent06@gmail.com**
 
