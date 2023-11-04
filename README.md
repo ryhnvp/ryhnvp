@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reyhan Vincent Prabowo</h1>
-- 🌱 I’m currently learning **AWS & CC Course**
+- 🌱 I’m currently learning AWS & CS
 
 - 📝 I regularly write articles on [reyhanvincent.my.id](https://reyhanvincent.my.id)
 
